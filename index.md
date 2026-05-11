@@ -1,11 +1,19 @@
 # Privacy Policy — Fake Book Index
-*Last updated: April 2026*
+
+*Last updated: May 2026*
+
+## Data controller
+
+The Fake Book Index app is developed and maintained by **Armel Courrée** (sole proprietor, auto-entrepreneur registered in France). This privacy policy applies to all versions of the app (Android, iOS, and macOS).
 
 ## Data collection
+
 Fake Book Index does not collect, store, or transmit any personal data. The app has no user accounts, no analytics, and no advertising.
 
 ## Local storage
+
 The app stores data locally on your device only:
+
 - The jazz standards index (included in the app, updated automatically)
 - Your filter preferences
 - Your custom book indexes
@@ -14,6 +22,7 @@ The app stores data locally on your device only:
 This data never leaves your device.
 
 ## Internet connection
+
 The app works fully offline once installed. It includes an initial copy of the index and does not require any network access to function.
 
 To keep the index up to date without requiring an app store update, the app performs an automatic background check at most once every 24 hours. This check consists of:
@@ -26,8 +35,14 @@ No personal data is sent during these requests. The server (GitHub Pages) receiv
 If your device is offline, the app continues to work with the locally stored index.
 
 ## Third party data
+
 - The index is curated and maintained by the developer, and hosted on GitHub Pages.
 - It was initially built from [milnak/FakeBookIndex](https://github.com/milnak/FakeBookIndex), distributed under CC0 license (public domain), and has since been extended with additional books and metadata.
 
+## Your rights (GDPR)
+
+Since no personal data is collected, the standard GDPR rights (access, rectification, erasure, portability, objection) have no data to apply to. For any question, contact the address below.
+
 ## Contact
-Questions? armel.courree@gmail.com
+
+Questions? <armel.courree@gmail.com>
